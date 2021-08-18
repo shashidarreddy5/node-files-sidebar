@@ -1,0 +1,12 @@
+Instruction to run:
+	1. From the directory where file-explorer.js is kept use the following command to run the application
+	    node file-explorer.js <dir1> <dir2> <dir3> ...
+
+	    example : node file-explorer.js ~/Documents ~/Downloads ./Test 
+
+	2. Open the following url in any browser to see the application in action
+	    http://localhost:8888/
+
+	3. Once the file explorer is opened in browser you can expand or collapse any directory similar to any file explorer
+
+	4. To view changes made to files in the specified directory (additions, deletions, renames etc) you can simply collapse its parent and expand 
